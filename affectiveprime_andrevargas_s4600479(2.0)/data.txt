@@ -1,0 +1,606 @@
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	25	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+roach.jpg	Agony	f	1.78127777188	correct
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+bee.jpg	Gorgeous	g	1.16229409722	correct
+bee.jpg	Agony	f	0.369608186174	correct
+earthworm.jpg	Awful	f	0.338122029982	correct
+dragonfly.jpg	Terrible	f	1.30917817845	correct
+mosquito.jpg	Humiliate	f	0.234764372584	correct
+butterfly.jpg	Nasty	f	0.105781297658	correct
+ladybug.jpg	Painful	f	0.220845358792	correct
+flea.jpg	Humiliate	f	0.393950103862	correct
+ladybug.jpg	Superb	g	0.262636075196	correct
+butterfly.jpg	Wonderful	g	0.35576518175	correct
+flea.jpg	Painful	f	0.274760049349	correct
+mosquito.jpg	Terrible	f	1.14009647737	correct
+roach.jpg	Terrible	f	0.323917259484	correct
+ant.jpg	Horrible	f	0.509705304972	correct
+earthworm.jpg	Pleasure	g	0.318441057625	correct
+butterfly.jpg	Lovely	g	0.732960834011	correct
+cricket.jpg	Superb	g	0.251759360133	correct
+ladybug.jpg	Despicable	f	0.297581138391	correct
+ant.jpg	Superb	g	0.228787535238	correct
+flea.jpg	Beautiful	na	na	na
+cricket.jpg	Humiliate	na	na	na
+mosquito.jpg	Gorgeous	na	na	na
+dragonfly.jpg	Agony	na	na	na
+dragonfly.jpg	Wonderful	na	na	na
+dragonfly.jpg	Humiliate	na	na	na
+ladybug.jpg	Horrible	na	na	na
+earthworm.jpg	Wretched	na	na	na
+ladybug.jpg	Gorgeous	na	na	na
+cricket.jpg	Awful	na	na	na
+roach.jpg	Superb	f	2.11599252992	incorrect
+butterfly.jpg	Wretched	f	0.269754977249	correct
+ant.jpg	Beautiful	na	na	na
+roach.jpg	Awful	na	na	na
+dragonfly.jpg	Gorgeous	na	na	na
+bee.jpg	Lovely	na	na	na
+mosquito.jpg	Lovely	f	0.485892887096	incorrect
+flea.jpg	Marvelous	na	na	na
+roach.jpg	Marvelous	f	1.87741550213	incorrect
+butterfly.jpg	Awful	f	0.08983729186	correct
+cricket.jpg	Marvelous	f	0.195819356857	incorrect
+bee.jpg	Horrible	na	na	na
+cricket.jpg	Agony	na	na	na
+bee.jpg	Tragic	f	0.823520695874	correct
+cricket.jpg	Beautiful	f	0.895353069896	incorrect
+earthworm.jpg	Glorious	f	0.18654942196	incorrect
+ant.jpg	Marvelous	f	0.490405982993	incorrect
+earthworm.jpg	Joyful	f	0.0848761576599	incorrect
+mosquito.jpg	Agony	f	0.651494834729	correct
+bee.jpg	Wonderful	f	0.00864165498933	incorrect
+mosquito.jpg	Wonderful	g	0.346446177515	correct
+ant.jpg	Despicable	f	0.343170398555	correct
+roach.jpg	Agony	na	na	na
+ant.jpg	Tragic	na	na	na
+flea.jpg	Nasty	na	na	na
+flea.jpg	Superb	f	2.18121754167	incorrect
+ladybug.jpg	Marvelous	g	0.411924874526	correct
+earthworm.jpg	Painful	na	na	na
+dragonfly.jpg	Lovely	na	na	na
+roach.jpg	Beautiful	na	na	na
+butterfly.jpg	Gorgeous	g	1.46359873215	correct
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+2	2	Male
+Earthworm	Joyful	f	0.363354892837	incorrect
+Cricket	Wonderful	g	0.298515380029	correct
+Ladybug	Gorgeous	na	na	na
+Flea	Nasty	na	na	na
+Bee	Superb	na	na	na
+Butterfly	Lovely	na	na	na
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+2	2	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+2	2	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+Gender	Age	ppcode
+2	1	Male
+prime	target	keypress	RT	correct
+Ladybug	Marvelous	f	0.288374384269	incorrect
+Ant	Marvelous	f	0.931375413442	incorrect
+Bee	Agony	f	0.0772797115605	correct
+Bee	Beautiful	na	na	na
+Cockroach	Agony	na	na	na
+Mosquito	Agony	na	na	na
+Cricket	Horrible	na	na	na
+Cricket	Wonderful	na	na	na
+Bee	Marvelous	na	na	na
+Flea	Beautiful	na	na	na
+Mosquito	Terrible	g	0.0231956836942	incorrect
+Ladybug	Despicable	g	0.0200661505951	incorrect
+Ant	Beautiful	g	0.145705134353	correct
+Butterfly	Nasty	g	0.00204102773569	incorrect
+Dragonfly	Agony	g	0.0723442345297	incorrect
+Earthworm	Joyful	g	0.0838992609752	correct
+Ladybug	Horrible	g	0.126885280708	incorrect
+Bee	Awful	g	0.199233684525	incorrect
+Dragonfly	Wonderful	g	0.428877848466	correct
+Cockroach	Awful	g	0.273317154351	incorrect
+Dragonfly	Humiliate	g	0.23637147346	incorrect
+Cricket	Agony	g	0.649371383341	incorrect
+Butterfly	Gorgeous	g	0.701195014684	correct
+Flea	Nasty	g	0.223036160249	incorrect
+Earthworm	Pleasure	g	0.419987318946	correct
+Butterfly	Wonderful	na	na	na
+Cricket	Lovely	na	na	na
+Mosquito	Wonderful	na	na	na
+Bee	Humiliate	na	na	na
+Earthworm	Glorious	g	0.380342183238	correct
+Dragonfly	Lovely	g	0.218781239608	correct
+Cricket	Gorgeous	g	0.41575548975	correct
+Flea	Painful	g	0.524894348593	incorrect
+Earthworm	Awful	na	na	na
+Butterfly	Awful	g	1.89213630242	incorrect
+Earthworm	Painful	g	1.17576314842	incorrect
+Bee	Superb	g	0.319657528118	correct
+Mosquito	Lovely	g	1.47329104818	correct
+Ladybug	Painful	na	na	na
+Mosquito	Gorgeous	na	na	na
+Butterfly	Wretched	na	na	na
+Cockroach	Beautiful	na	na	na
+Ladybug	Superb	na	na	na
+Cockroach	Marvelous	na	na	na
+Cricket	Tragic	na	na	na
+Ant	Superb	na	na	na
+Earthworm	Wretched	na	na	na
+Cockroach	Terrible	na	na	na
+Ladybug	Gorgeous	na	na	na
+Butterfly	Lovely	na	na	na
+Ant	Tragic	na	na	na
+Ant	Despicable	na	na	na
+Dragonfly	Gorgeous	na	na	na
+Mosquito	Humiliate	na	na	na
+Flea	Humiliate	na	na	na
+Flea	Superb	na	na	na
+Dragonfly	Terrible	na	na	na
+Ant	Horrible	f	1.27683924212	correct
+Cockroach	Superb	g	0.360129466069	correct
+Flea	Marvelous	f	0.751148238458	incorrect
+butterfly.jpg	Wonderful	g	0.381946397683	correct
+ladybug.jpg	Horrible	g	0.0783653304934	incorrect
+ant.jpg	Superb	f	0.32395670738	incorrect
+flea.jpg	Superb	na	na	na
+flea.jpg	Marvelous	f	0.345147604086	incorrect
+ant.jpg	Despicable	f	2.32726038851	correct
+bee.jpg	Horrible	na	na	na
+flea.jpg	Nasty	na	na	na
+ladybug.jpg	Marvelous	na	na	na
+mosquito.jpg	Lovely	f	0.182906745493	incorrect
+flea.jpg	Humiliate	f	0.518646828117	correct
+roach.jpg	Awful	f	2.59174345911	correct
+ladybug.jpg	Despicable	na	na	na
+flea.jpg	Beautiful	f	0.112635289446	incorrect
+butterfly.jpg	Nasty	f	0.0930078764322	correct
+mosquito.jpg	Terrible	f	0.165995464453	correct
+dragonfly.jpg	Humiliate	f	0.145117905911	correct
+cricket.jpg	Humiliate	f	0.0842433877478	correct
+cricket.jpg	Superb	f	0.0425459992948	incorrect
+dragonfly.jpg	Wonderful	f	0.0849470355861	incorrect
+ant.jpg	Tragic	f	0.0346227450173	correct
+cricket.jpg	Beautiful	f	0.131023461236	incorrect
+earthworm.jpg	Glorious	f	0.126677136926	incorrect
+ant.jpg	Marvelous	f	0.0336519419106	incorrect
+earthworm.jpg	Joyful	f	0.041303871636	incorrect
+cricket.jpg	Awful	f	0.3298187289	correct
+earthworm.jpg	Pleasure	f	0.125566181545	incorrect
+ladybug.jpg	Painful	g	0.0877651548071	incorrect
+roach.jpg	Beautiful	g	0.115477782976	correct
+mosquito.jpg	Gorgeous	g	0.0827741941466	correct
+roach.jpg	Marvelous	g	0.157740911989	correct
+ladybug.jpg	Superb	g	0.0246440308438	correct
+butterfly.jpg	Gorgeous	g	0.0803614581891	correct
+bee.jpg	Lovely	g	0.693440776999	correct
+dragonfly.jpg	Gorgeous	g	0.0766604116616	correct
+roach.jpg	Superb	f	0.0556218543934	incorrect
+butterfly.jpg	Awful	f	0.00680845031457	correct
+bee.jpg	Gorgeous	f	0.046501372497	incorrect
+bee.jpg	Wonderful	g	0.404797954612	correct
+flea.jpg	Painful	f	0.100056221272	correct
+dragonfly.jpg	Terrible	f	0.38513847013	correct
+roach.jpg	Terrible	g	0.00766860688236	incorrect
+earthworm.jpg	Awful	f	0.704735383191	correct
+cricket.jpg	Marvelous	f	0.429715555012	incorrect
+butterfly.jpg	Lovely	f	0.389136819096	incorrect
+mosquito.jpg	Agony	g	0.647942279069	incorrect
+earthworm.jpg	Wretched	f	0.782473395924	correct
+cricket.jpg	Agony	g	2.31222143932	incorrect
+bee.jpg	Agony	f	0.188084041336	correct
+dragonfly.jpg	Lovely	f	0.773685174358	incorrect
+bee.jpg	Tragic	f	0.0302953428691	correct
+earthworm.jpg	Painful	f	0.14918777423	correct
+ladybug.jpg	Gorgeous	f	0.152379846677	incorrect
+dragonfly.jpg	Agony	f	0.404129906092	correct
+roach.jpg	Agony	f	0.250631727591	correct
+mosquito.jpg	Humiliate	f	0.300329341826	correct
+mosquito.jpg	Wonderful	g	0.236099507481	correct
+butterfly.jpg	Wretched	f	0.267309528401	correct
+ant.jpg	Beautiful	g	0.248223160921	correct
+ant.jpg	Horrible	g	0.415340485055	incorrect
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+2	2	Male
+prime	target	keypress	RT	correct
+Bee	Agony	g	0.128335231428	incorrect
+Flea	Nasty	na	na	na
+Flea	Marvelous	na	na	na
+Cricket	Tragic	na	na	na
+Ant	Superb	na	na	na
+Mosquito	Terrible	na	na	na
+Ant	Marvelous	na	na	na
+Ant	Beautiful	na	na	na
+Ladybug	Marvelous	na	na	na
+Cockroach	Awful	na	na	na
+Dragonfly	Gorgeous	na	na	na
+Butterfly	Wretched	na	na	na
+Cricket	Wonderful	na	na	na
+Bee	Marvelous	na	na	na
+Dragonfly	Wonderful	f	1.51490986155	incorrect
+Cricket	Agony	g	1.57287453613	incorrect
+Ladybug	Painful	g	0.0282578429942	incorrect
+Butterfly	Gorgeous	na	na	na
+Ladybug	Despicable	na	na	na
+Earthworm	Painful	na	na	na
+Cricket	Horrible	na	na	na
+Flea	Superb	na	na	na
+Earthworm	Joyful	na	na	na
+Bee	Humiliate	na	na	na
+Flea	Beautiful	na	na	na
+Butterfly	Nasty	na	na	na
+Earthworm	Wretched	na	na	na
+Ladybug	Gorgeous	na	na	na
+Ant	Horrible	na	na	na
+Ant	Despicable	na	na	na
+Mosquito	Wonderful	na	na	na
+Bee	Beautiful	na	na	na
+Cricket	Lovely	na	na	na
+Butterfly	Wonderful	na	na	na
+Mosquito	Humiliate	na	na	na
+Dragonfly	Agony	na	na	na
+Cockroach	Beautiful	na	na	na
+Flea	Humiliate	na	na	na
+Butterfly	Awful	na	na	na
+Ladybug	Superb	na	na	na
+Dragonfly	Terrible	na	na	na
+Cockroach	Marvelous	na	na	na
+Cockroach	Agony	na	na	na
+Bee	Superb	na	na	na
+Earthworm	Pleasure	na	na	na
+Cockroach	Terrible	na	na	na
+Dragonfly	Lovely	na	na	na
+Cockroach	Superb	na	na	na
+Flea	Painful	na	na	na
+Earthworm	Glorious	na	na	na
+Earthworm	Awful	na	na	na
+Mosquito	Agony	na	na	na
+Ant	Tragic	na	na	na
+Dragonfly	Humiliate	na	na	na
+Butterfly	Lovely	na	na	na
+Ladybug	Horrible	na	na	na
+Cricket	Gorgeous	na	na	na
+Bee	Awful	na	na	na
+Mosquito	Gorgeous	na	na	na
+Mosquito	Lovely	na	na	na
+mosquito.jpg	Agony	na	na	na
+mosquito.jpg	Lovely	na	na	na
+flea.jpg	Humiliate	na	na	na
+dragonfly.jpg	Agony	na	na	na
+earthworm.jpg	Pleasure	na	na	na
+cricket.jpg	Superb	na	na	na
+bee.jpg	Horrible	na	na	na
+ladybug.jpg	Marvelous	na	na	na
+ant.jpg	Beautiful	na	na	na
+ant.jpg	Marvelous	na	na	na
+cricket.jpg	Beautiful	na	na	na
+ant.jpg	Superb	na	na	na
+mosquito.jpg	Wonderful	na	na	na
+butterfly.jpg	Gorgeous	na	na	na
+roach.jpg	Beautiful	na	na	na
+roach.jpg	Terrible	na	na	na
+dragonfly.jpg	Gorgeous	na	na	na
+dragonfly.jpg	Lovely	na	na	na
+flea.jpg	Superb	na	na	na
+ladybug.jpg	Superb	na	na	na
+ladybug.jpg	Gorgeous	na	na	na
+bee.jpg	Agony	g	1.22093419674	incorrect
+bee.jpg	Tragic	f	0.179552391459	correct
+roach.jpg	Marvelous	g	0.138589760161	correct
+ladybug.jpg	Horrible	g	0.286430212342	incorrect
+flea.jpg	Nasty	na	na	na
+earthworm.jpg	Glorious	f	0.602502151196	incorrect
+ant.jpg	Tragic	f	0.00323408606346	correct
+dragonfly.jpg	Wonderful	g	1.38277544493	correct
+earthworm.jpg	Painful	f	1.62420330484	correct
+mosquito.jpg	Gorgeous	f	0.930935393004	incorrect
+ladybug.jpg	Despicable	f	1.11903707364	correct
+ladybug.jpg	Painful	f	0.338968716536	correct
+mosquito.jpg	Terrible	g	0.56933641262	incorrect
+roach.jpg	Awful	f	0.280470052152	correct
+butterfly.jpg	Lovely	na	na	na
+bee.jpg	Gorgeous	g	0.205319885557	correct
+butterfly.jpg	Wonderful	g	0.261228458803	correct
+bee.jpg	Lovely	g	0.722837798268	correct
+cricket.jpg	Awful	g	0.528028692413	incorrect
+cricket.jpg	Humiliate	g	0.539815274802	incorrect
+butterfly.jpg	Wretched	g	0.471629425821	incorrect
+earthworm.jpg	Awful	g	0.901580385351	incorrect
+bee.jpg	Wonderful	g	0.418033204864	correct
+flea.jpg	Marvelous	g	0.439863606491	correct
+roach.jpg	Agony	f	0.268970830046	correct
+ant.jpg	Despicable	f	0.770881808006	correct
+butterfly.jpg	Awful	f	0.427950662546	correct
+flea.jpg	Beautiful	na	na	na
+earthworm.jpg	Wretched	f	1.18609913866	correct
+dragonfly.jpg	Terrible	f	0.567543297271	correct
+butterfly.jpg	Nasty	f	0.226004053191	correct
+flea.jpg	Painful	na	na	na
+ant.jpg	Horrible	na	na	na
+earthworm.jpg	Joyful	na	na	na
+roach.jpg	Superb	f	1.81757657141	incorrect
+cricket.jpg	Marvelous	g	0.179750913794	correct
+mosquito.jpg	Humiliate	na	na	na
+dragonfly.jpg	Humiliate	f	1.62989663048	correct
+cricket.jpg	Agony	f	0.0472996311437	correct
+Gender	Age	ppcode
+1	1	Male
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+mosquito.jpg	Terrible	g	0.916765343165	incorrect
+flea.jpg	Marvelous	g	0.055777141155	correct
+mosquito.jpg	Wonderful	g	1.23474662052	correct
+roach.jpg	Marvelous	g	1.0054792728	correct
+bee.jpg	Agony	g	0.0873433630622	incorrect
+ant.jpg	Superb	g	1.62799316985	correct
+mosquito.jpg	Lovely	g	0.67291354225	correct
+flea.jpg	Superb	g	0.897234021366	correct
+ant.jpg	Horrible	na	na	na
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+cricket.jpg	Beautiful	g	0.716747724655	correct
+dragonfly.jpg	Lovely	g	0.93647413305	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+roach.jpg	Awful	g	0.441849344591	incorrect
+ladybug.jpg	Despicable	na	na	na
+ant.jpg	Horrible	na	na	na
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+butterfly.jpg	Wonderful	g	0.382454324104	correct
+mosquito.jpg	Terrible	na	na	na
+earthworm.jpg	Glorious	f	0.647923898737	incorrect
+cricket.jpg	Awful	f	0.761672657579	correct
+ladybug.jpg	Superb	g	0.598773723115	correct
+roach.jpg	Superb	g	0.751513442991	correct
+dragonfly.jpg	Lovely	g	1.31962735756	correct
+roach.jpg	Agony	f	0.635399428362	correct
+dragonfly.jpg	Terrible	f	1.16045221766	correct
+flea.jpg	Marvelous	f	1.04153581591	incorrect
+mosquito.jpg	Gorgeous	g	0.277986668616	correct
+bee.jpg	Horrible	f	0.772970081358	correct
+flea.jpg	Superb	f	0.880238520411	incorrect
+butterfly.jpg	Wretched	g	0.312562057898	incorrect
+roach.jpg	Beautiful	f	0.661057723146	incorrect
+butterfly.jpg	Gorgeous	g	0.550194416008	correct
+ant.jpg	Horrible	f	0.298677445177	correct
+earthworm.jpg	Pleasure	f	0.473701562768	incorrect
+ladybug.jpg	Despicable	f	0.314392044274	correct
+flea.jpg	Humiliate	na	na	na
+cricket.jpg	Humiliate	f	0.835543364199	correct
+bee.jpg	Wonderful	na	na	na
+cricket.jpg	Marvelous	na	na	na
+ant.jpg	Marvelous	na	na	na
+bee.jpg	Agony	na	na	na
+mosquito.jpg	Lovely	na	na	na
+flea.jpg	Beautiful	g	0.475023219596	correct
+butterfly.jpg	Nasty	f	0.61149671462	correct
+roach.jpg	Terrible	f	0.379933522682	correct
+bee.jpg	Gorgeous	g	0.439887545317	correct
+earthworm.jpg	Joyful	g	1.04148161547	correct
+cricket.jpg	Superb	g	0.787938061407	correct
+roach.jpg	Awful	f	0.493020972041	correct
+earthworm.jpg	Painful	f	0.716839274215	correct
+flea.jpg	Nasty	f	1.09791357179	correct
+roach.jpg	Marvelous	g	0.614331493725	correct
+ant.jpg	Tragic	g	1.40939482806	incorrect
+ladybug.jpg	Gorgeous	f	2.09240469061	incorrect
+bee.jpg	Tragic	na	na	na
+ladybug.jpg	Horrible	na	na	na
+ant.jpg	Superb	na	na	na
+dragonfly.jpg	Gorgeous	na	na	na
+Gender	Age	ppcode
+2	2	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	q	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+2	2	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+Gender	Age	ppcode
+1	1	Male
+prime	target	keypress	RT	correct
+ant.jpg	Beautiful	g	1.58732133993	correct
+earthworm.jpg	Glorious	g	0.350921914476	correct
+flea.jpg	Painful	f	0.342536441894	correct
+dragonfly.jpg	Terrible	g	0.67598694691	incorrect
+dragonfly.jpg	Lovely	g	0.44034144	correct
+butterfly.jpg	Lovely	g	0.397141438618	correct
+bee.jpg	Lovely	g	0.276322896098	correct
+mosquito.jpg	Agony	f	0.428906510264	correct
+dragonfly.jpg	Gorgeous	g	0.273999561236	correct
+roach.jpg	Terrible	f	0.0673309531412	correct
+dragonfly.jpg	Agony	g	0.0212961668149	incorrect
+mosquito.jpg	Lovely	f	0.226439404913	incorrect
+mosquito.jpg	Wonderful	f	0.204264022846	incorrect
+ant.jpg	Marvelous	g	0.234670501668	correct
+ant.jpg	Tragic	f	0.726814226015	correct
+flea.jpg	Marvelous	g	0.357658003224	correct
+flea.jpg	Superb	g	0.329695024353	correct
+dragonfly.jpg	Humiliate	f	0.37462694291	correct
+earthworm.jpg	Painful	g	0.499437020015	incorrect
+butterfly.jpg	Gorgeous	g	0.552077894361	correct
+flea.jpg	Humiliate	f	0.345643629611	correct
+cricket.jpg	Beautiful	g	0.273474854504	correct
+roach.jpg	Marvelous	f	0.425727480033	incorrect
+roach.jpg	Agony	f	0.538124628772	correct
+roach.jpg	Superb	na	na	na
+flea.jpg	Beautiful	na	na	na
+ant.jpg	Despicable	na	na	na
+bee.jpg	Gorgeous	na	na	na
+roach.jpg	Beautiful	na	na	na
+bee.jpg	Horrible	na	na	na
+butterfly.jpg	Nasty	na	na	na
+mosquito.jpg	Terrible	na	na	na
+cricket.jpg	Marvelous	na	na	na
+ladybug.jpg	Gorgeous	na	na	na
+earthworm.jpg	Awful	na	na	na
+ant.jpg	Horrible	na	na	na
+earthworm.jpg	Pleasure	na	na	na
+roach.jpg	Awful	na	na	na
+bee.jpg	Wonderful	na	na	na
+earthworm.jpg	Wretched	na	na	na
+cricket.jpg	Superb	na	na	na
+butterfly.jpg	Awful	na	na	na
+cricket.jpg	Humiliate	na	na	na
+mosquito.jpg	Humiliate	na	na	na
+cricket.jpg	Awful	na	na	na
+cricket.jpg	Agony	na	na	na
+butterfly.jpg	Wretched	na	na	na
+ladybug.jpg	Painful	na	na	na
+bee.jpg	Tragic	na	na	na
+dragonfly.jpg	Wonderful	na	na	na
+ladybug.jpg	Marvelous	na	na	na
+ladybug.jpg	Superb	na	na	na
+ladybug.jpg	Despicable	f	1.54022602161	correct
+earthworm.jpg	Joyful	g	0.902775728697	correct
+butterfly.jpg	Wonderful	g	0.539697893779	correct
+ant.jpg	Superb	g	0.347223309131	correct
+ladybug.jpg	Horrible	f	0.307863459922	correct
+flea.jpg	Nasty	f	0.658123397181	correct
+bee.jpg	Agony	f	0.348337722971	correct
+mosquito.jpg	Gorgeous	g	0.410234304873	correct
+Mosquito	Lovely	g	0.847691782023	correct
+Ladybug	Superb	g	0.298107420764	correct
+Earthworm	Glorious	g	0.40233120331	correct
+Flea	Beautiful	g	0.78564766646	correct
+Dragonfly	Wonderful	g	0.43470779137	correct
+Cockroach	Awful	f	0.205155639473	correct
+Earthworm	Awful	f	0.809824375057	correct
+Mosquito	Agony	f	1.06463472158	correct
+Earthworm	Pleasure	g	0.346350936044	correct
+Flea	Painful	f	1.07538714763	correct
+Ladybug	Despicable	g	0.628097084846	incorrect
+Mosquito	Gorgeous	na	na	na
+Ant	Marvelous	na	na	na
+Cockroach	Terrible	na	na	na
+Cricket	Tragic	na	na	na
+Ladybug	Marvelous	na	na	na
+Ant	Horrible	g	0.0556219100836	incorrect
+Bee	Beautiful	f	0.606290323194	incorrect
+Cockroach	Marvelous	na	na	na
+Bee	Superb	na	na	na
+Butterfly	Gorgeous	na	na	na
+Dragonfly	Agony	na	na	na
+Ant	Superb	f	0.10150146528	incorrect
+Earthworm	Painful	na	na	na
+Cricket	Gorgeous	na	na	na
+Mosquito	Humiliate	f	2.55009452844	correct
+Cockroach	Beautiful	g	0.23894299168	correct
+Dragonfly	Terrible	f	1.00205307023	correct
+Butterfly	Wonderful	f	0.106251622346	incorrect
+Bee	Humiliate	g	0.531045577663	incorrect
+Earthworm	Wretched	f	0.28920066249	correct
+Butterfly	Nasty	f	0.210301357845	correct
+Dragonfly	Lovely	na	na	na
+Cockroach	Superb	g	1.52909471191	correct
+Butterfly	Awful	g	0.259534845507	incorrect
+Bee	Awful	g	0.24636885387	incorrect
+Ladybug	Gorgeous	g	2.02914068257	correct
+Earthworm	Joyful	f	0.00998482326395	incorrect
+Flea	Marvelous	na	na	na
+Cockroach	Agony	f	0.266029321152	correct
+Butterfly	Lovely	f	0.130105894961	incorrect
+Ant	Tragic	f	1.00963031477	correct
+Ant	Despicable	f	0.157789201301	correct
+Flea	Humiliate	na	na	na
+Cricket	Lovely	na	na	na
+Cricket	Agony	na	na	na
+Ant	Beautiful	f	1.92888662528	incorrect
+Flea	Superb	na	na	na
+Cricket	Horrible	f	0.0070508272911	correct
+Dragonfly	Humiliate	f	1.62953265177	correct
+Dragonfly	Gorgeous	na	na	na
+Butterfly	Wretched	f	1.71066334992	correct
+Cricket	Wonderful	f	0.0607582205266	incorrect
+Mosquito	Wonderful	na	na	na
+Ladybug	Horrible	f	0.0107477221172	correct
+Bee	Marvelous	f	0.545487628755	incorrect
+Ladybug	Painful	f	0.992083214136	correct
+Mosquito	Terrible	f	0.548519552918	correct
+Bee	Agony	na	na	na
+Flea	Nasty	f	2.25795773181	correct
