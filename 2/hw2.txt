@@ -1,0 +1,161 @@
+######### HW2 ANDRE VARGAS
+#4 draw figures
+import turtle
+wn = turtle.Screen()
+one = turtle.Turtle()
+two = turtle.Turtle()
+three = turtle.Turtle()
+four = turtle.Turtle()
+
+one.color("blue")
+two.color("green")
+three.color("red")
+four.color("black")
+
+for t in range(3):
+    one.forward(20)
+    one.left(360/3)
+for i in range(4):
+    two.forward(100)
+    two.left(360/4)
+for i in range(6):
+    three.forward(30)
+    three.left(360/6)
+for i in range(8):
+    four.forward(45)
+    four.left(360/8)
+
+#wn.exitonclick()
+
+#6 asking someone four turtles just beacuse Im not sure why i did it
+#import turtle
+#wn = turtle.Screen()
+one = turtle.Turtle()
+two = turtle.Turtle()
+three = turtle.Turtle()
+four = turtle.Turtle()
+
+colorone = input("what color do you want to use for the first figure?")
+colortwo = input("what color do you want to use for the second figure?")
+colorthree = input("what color do you want to use for the third figure?")
+colorfour = input("what color do you want to use for the fourth figure?")
+
+one.color(colorone, colorone) #use the same color for the fill next to coma
+two.color(colortwo,colortwo)
+three.color(colorthree,colorthree)
+four.color(colorfour, colorfour)
+
+sizeone = input("what size do you want to use for the first figure?")
+sizetwo = input("what size do you want to use for the second figure?")
+sizethree = input("what size do you want to use for the third figure?")
+sizefour = input("what size do you want to use for the fourth figure?")
+
+sideone = input("how many sides do you want to use for the first figure?")
+sidetwo = input("how many sides do you want to use for the second figure?")
+sidethree = input("how many sides do you want to use for the third figure?")
+sidefour = input("how many sides do you want to use for the fourth figure?")
+
+one.begin_fill() #to fill
+for t in range(int(sideone)):
+    one.forward(int(sizeone))
+    one.left(360/int(sideone))
+one.end_fill() #to end fill
+
+two.begin_fill()
+for i in range(int(sidetwo)):
+    two.forward(int(sizetwo))
+    two.left(360/int(sidetwo))
+two.end_fill()
+
+three.begin_fill()
+for i in range(int(sidethree)):
+    three.forward(int(sizethree))
+    three.left(360/int(sidethree))
+three.end_fill()
+
+four.begin_fill()
+for i in range(int(sidefour)):
+    four.forward(int(sizefour))
+    four.left(360/int(sidefour))
+four.end_fill()
+
+#wn.exitonclick()
+
+
+#10 turtle clock
+#import turtle
+#wn = turtle.Screen()
+wn.bgcolor("lightgreen")
+clo = turtle.Turtle()
+clo.shape("turtle")
+clo.color("blue")
+
+for i in range(12):
+    clo.penup()
+    clo.forward(100)
+    clo.stamp()
+    clo.pendown()
+    clo.forward(-30)
+    clo.penup()
+    clo.forward(-70)
+    clo.left(360/12)
+#wn.exitonclick()
+
+#############################################################
+#functions
+
+
+#2
+#import turtle
+
+def drawSquare(t, sz):
+    """Get turtle t to draw a square of sz side"""
+
+    for i in range(4):
+        t.forward(sz)
+        t.left(90)
+      
+
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")
+
+alex = turtle.Turtle()
+alex.color("red")
+
+for i in range (5):
+    n = 20*i 
+    drawSquare(alex, n)
+    alex.penup()
+    alex.forward(-10)
+    alex.right(90)
+    alex.forward(10)
+    alex.left(90)
+    alex.pendown()
+    
+
+#wn.exitonclick()
+
+#4
+#import turtle
+
+def drawSquare(t, sz):
+    """Get turtle t to draw a square of sz side"""
+
+    for i in range(4):
+        t.forward(sz)
+        t.left(90)
+      
+
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")
+
+alex = turtle.Turtle()
+alex.color("blue")
+alex.speed(100)
+
+for i in range (18):
+    drawSquare(alex, 100)
+    alex.left(20)
+
+#wn.exitonclick()
+

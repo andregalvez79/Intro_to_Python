@@ -1,0 +1,67 @@
+## Krisna Adiasto
+## s4593758
+
+
+# Importing required modules
+from psychopy import visual, core, event, data, gui
+
+# Setting up screen
+scr = visual.Window(color = ('white'))
+scr.setMouseVisible(True)
+
+# Setting up stimuli
+instructions = visual.ImageStim(scr, image = 'stroopinstructions.png', size = (2, 1.5), units = 'norm')
+readytext = visual.TextStim(scr, text = "Press any key to begin.", font = 'Segoe UI', color = ('black'))
+backtext = visual.TextStim(scr, text = "Incorrect", font = 'Segoe UI', color = ('black'))
+stroop = visual.TextStim(scr, font = 'Segoe UI', bold = True)
+
+# Importing conditions
+conditions = data.importConditions('stroopdata.xlsx')
+trials = data.TrialHandler(conditions, nReps = 2, method = 'random')
+
+# Participant information input
+pinlist = {'Participant Number': '', 'Age': '', 'Gender': ''}
+pinfo = gui.DlgFromDict(dictionary = pinlist, title = 'Stroop Task')
+
+if pinfo.OK:
+    outfile = open('Python_HW7.txt', 'a')
+    outfile.write('PP_Code\tAge\tGender\tTrialNumber\tInkname\tColorname\tResponse\tLatency\tCorrect\n')
+else:
+    core.quit()
+
+# Instructions
+instructions.draw()
+scr.flip()
+event.waitKeys()
+readytext.draw()
+scr.flip()
+event.waitKeys()
+
+# Stroop task
+answerkey = [('red', '1'), ('blue', '2'), ('green', '3'), ('yellow', '4')]
+
+for trial in trials:
+    stroop.setText(trial['colorname'])
+    stroop.setColor(trial['inkname'])
+    stroop.draw()
+    scr.flip()
+    timer = core.Clock()
+    keypress = event.waitKeys(keyList = ('1', '2', '3', '4', 'escape'), timeStamped = timer)
+    
+    if keypress[0][0] == 'escape':
+        core.quit()
+    
+    if (trial['inkname'], keypress[0][0]) not in answerkey:
+        backtext.draw()
+        scr.flip()
+        core.wait(0.3)
+        correct, latency = 0, keypress[0][1]
+    else:
+        correct, latency = 1, keypress[0][1]
+        
+    outfile.write('pp_code{}\t{}\t{}\tTrial {}\t{}\t{}\t{}\t{}\t{}\n'.format(pinlist['Participant Number'], pinlist['Age'], pinlist['Gender'],
+    trials.thisTrialN + 1, trial['inkname'], trial['colorname'], keypress[0][0], latency, correct))
+
+outfile.close
+
+scr.close()

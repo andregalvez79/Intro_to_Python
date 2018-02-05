@@ -1,0 +1,89 @@
+#questions (even #)
+
+#question 2
+message1 = """first the parentesis
+then multiplications and divisions
+finally add."""
+#2 + 2* 10/5 * 5
+#2 + 100/5
+# 2+20 = 22
+print (message1)
+print(2 + (3 - 1) * 10 / 5 * (2 + 3))
+
+#question 4
+start_str = input("Please enter the number of the day in which you will start")
+lenght_str = input("What is the lenght of your stay?(nights)")
+#change fromat
+start_int = int(start_str)
+lenght_int = int(lenght_str)
+#add days for total
+days = start_int + lenght_int
+#put them in a limit of 7 days
+total = (days % 7)
+print(total)
+
+#question 6
+
+print(6 * 1 - 2) #4
+print(6 * (1 - 2)) #-6
+
+#question 8 area of a circel calc
+#A = pi*(r**2)
+pi=3.1416
+radius_str = input("What is the raidus of the circle?")
+#change fromat
+radius_int = int(radius_str)
+A = pi*(radius_int**2)
+#with friendly message
+print ("The area of the circle with", radius_int, "of radius is:", A)
+
+#question 10
+#mpg = M/G
+m_str = input("how many miles have you driven?")
+g_str = input("how many galons have you used?")
+#change fromat
+m_f = float(m_str)
+g_f = float(g_str)
+mpg = m_f/g_f
+print ("The MPG of your car is:", mpg)
+
+#question 12
+#farenheit to celsius... ok :)
+F_str = input("what is the degrees in Farenheit?")
+#change fromat
+F_f = float(F_str)
+C = (F_f - 32) * 5/9
+print(F_f, " degrees Farenheit is", C, " degrees Celsius.")
+
+
+
+
+Make an algorithm of your morning routine
+1.	“alarm sounds”
+2.	Check time
+2.1.	Evaluate if I had enough sleep and can sleep a little bit more.
+2.1.1.	If I had enough sleep = wake up
+2.1.1.1.	Get up from bed
+2.1.1.2.	Take towel and stuff
+2.1.1.3.	Get a bath
+2.1.1.4.	Check time to be sure how much you can procrastinate in the shower
+2.1.1.5.	Procrastinate in the shower (planning the day)
+2.1.1.6.	Dress up
+2.1.1.7.	Have breakfast (really fast probably)
+2.1.1.8.	Brush your teeth
+2.1.1.9.	Get stuff make sure you don’t forget anything
+2.1.1.10.	Close door (make sure)
+2.1.1.11.	Get bike 
+2.1.1.12.	Bike to university
+2.1.2.	If I haven’t = incur cost (no breakfast) for more sleep
+2.1.2.1.	Get up from bed (curse a little bit)
+2.1.2.2.	Take towel and stuff
+2.1.2.3.	Get a bath
+2.1.2.4.	Check time to be sure how much you can procrastinate in the shower
+2.1.2.5.	Procrastinate in the shower (planning the day)
+2.1.2.6.	Dress up (really fast)
+2.1.2.7.	Brush your teeth
+2.1.2.8.	Get stuff make sure you don’t forget anything
+2.1.2.9.	Close door (make sure)
+2.1.2.10.	Get bike 
+2.1.2.11.	Bike to university
